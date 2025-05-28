@@ -1,0 +1,9 @@
+site_name: Portfolio
+site_description: A collection of my projects and skills
+
+#theme: readthedocs
+#theme: mkdocs
+theme:
+ name: material
+  
+ 
