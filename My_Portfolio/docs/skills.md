@@ -1,0 +1,22 @@
+## Data Science Skills
+
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Statistical Modeling
+- Python (NumPy, pandas, scikit-learn)
+- R Programming
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Deep Learning (TensorFlow, PyTorch)
+- Big Data Tools (Spark, Hadoop)
+- Data Storytelling
+- Feature Engineering
+- Model Evaluation & Validation
+- Data Mining
+- Predictive Analytics
+- Jupyter Notebooks
+- Version Control (Git)
+- Cloud Platforms (AWS, GCP, Azure)
+- Dashboarding (Tableau, Power BI)

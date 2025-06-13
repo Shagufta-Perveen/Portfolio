@@ -32,8 +32,10 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md
  
-
 markdown_extensions:
   - admonition
   - codehilite
